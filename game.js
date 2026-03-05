@@ -1,0 +1,1 @@
+// Placeholder game.js for Warehouse Hero SNES Viral
